@@ -1,1 +1,401 @@
-﻿[{"id":"52523b4a-1222-11f1-8030-c8ff283eb9ac","code":"000000013","name":"Ирис","manufacturer":"Гамма","weight":25,"length":150,"hookMin":1,5,"hookMax":2,"materials":[{"material":"Хлопок","percent":100}],"additionals":[{"colorCode":3171,"color":"Хаки","quantity":3}]},{"id":"279bade6-2870-11f0-bfdd-c8ff283eb9ac","code":"000000001","name":"Детская Забава","manufacturer":"Камтекс","weight":50,"length":140,"hookMin":2,5,"hookMax":3,5,"materials":[{"material":"Акрил","percent":80},{"material":"Микрофибра","percent":20}],"additionals":[{"colorCode":35,"color":"Оранжевый","quantity":3},{"colorCode":118,"color":"Крем-брюле","quantity":1},{"colorCode":37,"color":"Персик","quantity":2},{"colorCode":3,"color":"Черный","quantity":4},{"colorCode":188,"color":"Топленое молоко","quantity":1}]},{"id":"32fae656-2a89-11f0-bfdd-c8ff283eb9ac","code":"000000002","name":"Dolce","manufacturer":"YarnArt","weight":100,"length":120,"hookMin":4,5,"hookMax":6,"materials":[{"material":"Полиэстер","percent":100}],"additionals":[{"colorCode":798,"color":"Белый","quantity":1},{"colorCode":796,"color":"Светло-розовый","quantity":1}]},{"id":"32fae657-2a89-11f0-bfdd-c8ff283eb9ac","code":"000000003","name":"Карамелька","manufacturer":"Камтекс","weight":50,"length":175,"hookMin":2,"hookMax":2,5,"materials":[{"material":"Акрил","percent":100}],"additionals":[{"colorCode":72,"color":"Лаванда","quantity":5},{"colorCode":73,"color":"Лед","quantity":5},{"colorCode":37,"color":"Персик","quantity":5}]},{"id":"32fae658-2a89-11f0-bfdd-c8ff283eb9ac","code":"000000004","name":"Cotton gold hobby","manufacturer":"Alize","weight":50,"length":165,"hookMin":2,5,"hookMax":3,5,"materials":[{"material":"Акрил","percent":45},{"material":"Хлопок","percent":55}],"additionals":[{"colorCode":610,"color":"Зеленый","quantity":3},{"colorCode":33,"color":"Розовый","quantity":2}]},{"id":"32fae659-2a89-11f0-bfdd-c8ff283eb9ac","code":"000000005","name":"Mohair Classic","manufacturer":"Alize","weight":100,"length":200,"hookMin":3,5,"hookMax":4,5,"materials":[{"material":"Акрил","percent":51},{"material":"Мохер","percent":25},{"material":"Шерсть","percent":24}],"additionals":[{"colorCode":21,"color":"Серый","quantity":1}]},{"id":"32fae65a-2a89-11f0-bfdd-c8ff283eb9ac","code":"000000006","name":"Народная","manufacturer":"Пехорка","weight":100,"length":220,"hookMin":3,5,"hookMax":4,5,"materials":[{"material":"Акрил","percent":70},{"material":"Шерсть","percent":30}],"additionals":[{"colorCode":439,"color":"Малиновый","quantity":3},{"colorCode":1,"color":"Белый","quantity":2},{"colorCode":431,"color":"Бежевый","quantity":2}]},{"id":"ee8ce144-2a8d-11f0-bfdd-c8ff283eb9ac","code":"000000007","name":"Трикотажная пряжа","manufacturer":"Бисквит","weight":320,"length":100,"hookMin":9,"hookMax":15,"materials":[{"material":"Хлопок","percent":100}],"additionals":[{"colorCode":,"color":"Пломбир","quantity":1}]},{"id":"ee8ce145-2a8d-11f0-bfdd-c8ff283eb9ac","code":"000000008","name":"Basta","manufacturer":"Lana Grossa","weight":50,"length":100,"hookMin":3,5,"hookMax":4,5,"materials":[{"material":"МериносоваяШерсть","percent":50},{"material":"Полиамид","percent":50}],"additionals":[{"colorCode":13,"color":"Оливковый","quantity":2}]},{"id":"0654837b-2c5b-11f0-bfdd-c8ff283eb9ac","code":"000000009","name":"Angora gold","manufacturer":"Alize","weight":100,"length":550,"hookMin":1,5,"hookMax":2,"materials":[{"material":"Акрил","percent":80},{"material":"Шерсть","percent":20}],"additionals":[{"colorCode":114,"color":"Мятный","quantity":3}]},{"id":"c58bbbfd-64ae-11f0-bfe3-c8ff283eb9ac","code":"000000010","name":"Австралийский меринос","manufacturer":"Пехорка","weight":100,"length":400,"hookMin":2,"hookMax":2,5,"materials":[{"material":"Акрил","percent":5},{"material":"МериносоваяШерсть","percent":95}],"additionals":[{"colorCode":1,"color":"Белый","quantity":2},{"colorCode":6,"color":"Красный","quantity":2},{"colorCode":2,"color":"Черный","quantity":2}]},{"id":"3a89cb8e-6b4c-11f0-bfe3-c8ff283eb9ac","code":"000000011","name":"Lanagold Classic","manufacturer":"Alize","weight":100,"length":240,"hookMin":3,5,"hookMax":4,5,"materials":[{"material":"Акрил","percent":51},{"material":"Шерсть","percent":49}],"additionals":[{"colorCode":56,"color":"красный","quantity":3}]},{"id":"5a4a6882-7571-11f0-bfe5-c8ff283eb9ac","code":"000000012","name":"Chenille DK","manufacturer":"Ice Yarn","weight":100,"length":90,"hookMin":6,"hookMax":9,"materials":[{"material":"Полиэстер","percent":80},{"material":"Полиамид","percent":20}],"additionals":[{"colorCode":74970,"color":"Белый","quantity":5}]}]
+﻿[
+{
+"id": "52523b4a-1222-11f1-8030-c8ff283eb9ac",
+"code": "000000013",
+"name": "Ирис",
+"manufacturer": "Гамма",
+"weight": 25,
+"length": 150,
+"hookMin": 1.5,
+"hookMax": 2,
+"materials": [
+{
+"material": "Хлопок",
+"percent": 100
+}
+],
+"additionals": [
+{
+"colorCode": 3171,
+"color": "Хаки",
+"quantity": 3
+}
+]
+},
+{
+"id": "279bade6-2870-11f0-bfdd-c8ff283eb9ac",
+"code": "000000001",
+"name": "Детская Забава",
+"manufacturer": "Камтекс",
+"weight": 50,
+"length": 140,
+"hookMin": 2.5,
+"hookMax": 3.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 80
+},
+{
+"material": "Микрофибра",
+"percent": 20
+}
+],
+"additionals": [
+{
+"colorCode": 35,
+"color": "Оранжевый",
+"quantity": 3
+},
+{
+"colorCode": 118,
+"color": "Крем-брюле",
+"quantity": 1
+},
+{
+"colorCode": 37,
+"color": "Персик",
+"quantity": 2
+},
+{
+"colorCode": 3,
+"color": "Черный",
+"quantity": 4
+},
+{
+"colorCode": 188,
+"color": "Топленое молоко",
+"quantity": 1
+}
+]
+},
+{
+"id": "32fae656-2a89-11f0-bfdd-c8ff283eb9ac",
+"code": "000000002",
+"name": "Dolce",
+"manufacturer": "YarnArt",
+"weight": 100,
+"length": 120,
+"hookMin": 4.5,
+"hookMax": 6,
+"materials": [
+{
+"material": "Полиэстер",
+"percent": 100
+}
+],
+"additionals": [
+{
+"colorCode": 798,
+"color": "Белый",
+"quantity": 1
+},
+{
+"colorCode": 796,
+"color": "Светло-розовый",
+"quantity": 1
+}
+]
+},
+{
+"id": "32fae657-2a89-11f0-bfdd-c8ff283eb9ac",
+"code": "000000003",
+"name": "Карамелька",
+"manufacturer": "Камтекс",
+"weight": 50,
+"length": 175,
+"hookMin": 2,
+"hookMax": 2.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 100
+}
+],
+"additionals": [
+{
+"colorCode": 72,
+"color": "Лаванда",
+"quantity": 5
+},
+{
+"colorCode": 73,
+"color": "Лед",
+"quantity": 5
+},
+{
+"colorCode": 37,
+"color": "Персик",
+"quantity": 5
+}
+]
+},
+{
+"id": "32fae658-2a89-11f0-bfdd-c8ff283eb9ac",
+"code": "000000004",
+"name": "Cotton gold hobby",
+"manufacturer": "Alize",
+"weight": 50,
+"length": 165,
+"hookMin": 2.5,
+"hookMax": 3.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 45
+},
+{
+"material": "Хлопок",
+"percent": 55
+}
+],
+"additionals": [
+{
+"colorCode": 610,
+"color": "Зеленый",
+"quantity": 3
+},
+{
+"colorCode": 33,
+"color": "Розовый",
+"quantity": 2
+}
+]
+},
+{
+"id": "32fae659-2a89-11f0-bfdd-c8ff283eb9ac",
+"code": "000000005",
+"name": "Mohair Classic",
+"manufacturer": "Alize",
+"weight": 100,
+"length": 200,
+"hookMin": 3.5,
+"hookMax": 4.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 51
+},
+{
+"material": "Мохер",
+"percent": 25
+},
+{
+"material": "Шерсть",
+"percent": 24
+}
+],
+"additionals": [
+{
+"colorCode": 21,
+"color": "Серый",
+"quantity": 1
+}
+]
+},
+{
+"id": "32fae65a-2a89-11f0-bfdd-c8ff283eb9ac",
+"code": "000000006",
+"name": "Народная",
+"manufacturer": "Пехорка",
+"weight": 100,
+"length": 220,
+"hookMin": 3.5,
+"hookMax": 4.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 70
+},
+{
+"material": "Шерсть",
+"percent": 30
+}
+],
+"additionals": [
+{
+"colorCode": 439,
+"color": "Малиновый",
+"quantity": 3
+},
+{
+"colorCode": 1,
+"color": "Белый",
+"quantity": 2
+},
+{
+"colorCode": 431,
+"color": "Бежевый",
+"quantity": 2
+}
+]
+},
+{
+"id": "ee8ce144-2a8d-11f0-bfdd-c8ff283eb9ac",
+"code": "000000007",
+"name": "Трикотажная пряжа",
+"manufacturer": "Бисквит",
+"weight": 320,
+"length": 100,
+"hookMin": 9,
+"hookMax": 15,
+"materials": [
+{
+"material": "Хлопок",
+"percent": 100
+}
+],
+"additionals": [
+{
+"colorCode": 0,
+"color": "Пломбир",
+"quantity": 1
+}
+]
+},
+{
+"id": "ee8ce145-2a8d-11f0-bfdd-c8ff283eb9ac",
+"code": "000000008",
+"name": "Basta",
+"manufacturer": "Lana Grossa",
+"weight": 50,
+"length": 100,
+"hookMin": 3.5,
+"hookMax": 4.5,
+"materials": [
+{
+"material": "МериносоваяШерсть",
+"percent": 50
+},
+{
+"material": "Полиамид",
+"percent": 50
+}
+],
+"additionals": [
+{
+"colorCode": 13,
+"color": "Оливковый",
+"quantity": 2
+}
+]
+},
+{
+"id": "0654837b-2c5b-11f0-bfdd-c8ff283eb9ac",
+"code": "000000009",
+"name": "Angora gold",
+"manufacturer": "Alize",
+"weight": 100,
+"length": 550,
+"hookMin": 1.5,
+"hookMax": 2,
+"materials": [
+{
+"material": "Акрил",
+"percent": 80
+},
+{
+"material": "Шерсть",
+"percent": 20
+}
+],
+"additionals": [
+{
+"colorCode": 114,
+"color": "Мятный",
+"quantity": 3
+}
+]
+},
+{
+"id": "c58bbbfd-64ae-11f0-bfe3-c8ff283eb9ac",
+"code": "000000010",
+"name": "Австралийский меринос",
+"manufacturer": "Пехорка",
+"weight": 100,
+"length": 400,
+"hookMin": 2,
+"hookMax": 2.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 5
+},
+{
+"material": "МериносоваяШерсть",
+"percent": 95
+}
+],
+"additionals": [
+{
+"colorCode": 1,
+"color": "Белый",
+"quantity": 2
+},
+{
+"colorCode": 6,
+"color": "Красный",
+"quantity": 2
+},
+{
+"colorCode": 2,
+"color": "Черный",
+"quantity": 2
+}
+]
+},
+{
+"id": "3a89cb8e-6b4c-11f0-bfe3-c8ff283eb9ac",
+"code": "000000011",
+"name": "Lanagold Classic",
+"manufacturer": "Alize",
+"weight": 100,
+"length": 240,
+"hookMin": 3.5,
+"hookMax": 4.5,
+"materials": [
+{
+"material": "Акрил",
+"percent": 51
+},
+{
+"material": "Шерсть",
+"percent": 49
+}
+],
+"additionals": [
+{
+"colorCode": 56,
+"color": "красный",
+"quantity": 3
+}
+]
+},
+{
+"id": "5a4a6882-7571-11f0-bfe5-c8ff283eb9ac",
+"code": "000000012",
+"name": "Chenille DK",
+"manufacturer": "Ice Yarn",
+"weight": 100,
+"length": 90,
+"hookMin": 6,
+"hookMax": 9,
+"materials": [
+{
+"material": "Полиэстер",
+"percent": 80
+},
+{
+"material": "Полиамид",
+"percent": 20
+}
+],
+"additionals": [
+{
+"colorCode": 74970,
+"color": "Белый",
+"quantity": 5
+}
+]
+}
+]

@@ -1,1 +1,52 @@
-﻿[{"id":"f2d2fa2a-1021-11f1-802d-c8ff283eb9ac","code":"000000007","name":"Образец Австр Меринос","yarnId":"c58bbbfd-64ae-11f0-bfe3-c8ff283eb9ac","hookSize":3,"sampleLength":10,"sampleWidth":10,"threadLength":20,64},{"id":"3a89cb91-6b4c-11f0-bfe3-c8ff283eb9ac","code":"000000003","name":"Образец Лана голд классик","yarnId":"3a89cb8e-6b4c-11f0-bfe3-c8ff283eb9ac","hookSize":8,"sampleLength":10,"sampleWidth":10,"threadLength":8,6},{"id":"5a4a6884-7571-11f0-bfe5-c8ff283eb9ac","code":"000000004","name":"Образец Chenille DK","yarnId":"5a4a6882-7571-11f0-bfe5-c8ff283eb9ac","hookSize":4,"sampleLength":10,"sampleWidth":10,"threadLength":30},{"id":"bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac","code":"000000005","name":"Образец Angora gold","yarnId":"0654837b-2c5b-11f0-bfdd-c8ff283eb9ac","hookSize":2,"sampleLength":10,"sampleWidth":10,"threadLength":50},{"id":"e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac","code":"000000006","name":"Образец Детская Забава","yarnId":"279bade6-2870-11f0-bfdd-c8ff283eb9ac","hookSize":2,"sampleLength":10,"sampleWidth":10,"threadLength":20}]
+﻿[
+{
+"id": "f2d2fa2a-1021-11f1-802d-c8ff283eb9ac",
+"code": "000000007",
+"name": "Образец Австр Меринос",
+"yarnId": "c58bbbfd-64ae-11f0-bfe3-c8ff283eb9ac",
+"hookSize": 3,
+"sampleLength": 10,
+"sampleWidth": 10,
+"threadLength": 20.64
+},
+{
+"id": "3a89cb91-6b4c-11f0-bfe3-c8ff283eb9ac",
+"code": "000000003",
+"name": "Образец Лана голд классик",
+"yarnId": "3a89cb8e-6b4c-11f0-bfe3-c8ff283eb9ac",
+"hookSize": 8,
+"sampleLength": 10,
+"sampleWidth": 10,
+"threadLength": 8.6
+},
+{
+"id": "5a4a6884-7571-11f0-bfe5-c8ff283eb9ac",
+"code": "000000004",
+"name": "Образец Chenille DK",
+"yarnId": "5a4a6882-7571-11f0-bfe5-c8ff283eb9ac",
+"hookSize": 4,
+"sampleLength": 10,
+"sampleWidth": 10,
+"threadLength": 30
+},
+{
+"id": "bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac",
+"code": "000000005",
+"name": "Образец Angora gold",
+"yarnId": "0654837b-2c5b-11f0-bfdd-c8ff283eb9ac",
+"hookSize": 2,
+"sampleLength": 10,
+"sampleWidth": 10,
+"threadLength": 50
+},
+{
+"id": "e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac",
+"code": "000000006",
+"name": "Образец Детская Забава",
+"yarnId": "279bade6-2870-11f0-bfdd-c8ff283eb9ac",
+"hookSize": 2,
+"sampleLength": 10,
+"sampleWidth": 10,
+"threadLength": 20
+}
+]

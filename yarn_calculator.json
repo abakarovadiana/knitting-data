@@ -1,1 +1,58 @@
-﻿[{"id":"e5bae2c3-a55c-11f0-bfeb-c8ff283eb9ac","number":"000000001","date":"2025-10-10","name":"Пряжа Вафельный плед","yarnId":","sampleId":"5a4a6884-7571-11f0-bfe5-c8ff283eb9ac","areaId":"e5bae2c2-a55c-11f0-bfeb-c8ff283eb9ac","areaValue":0,"hook":4,"columnType":"СтолбикСОднимНакидом","result":4,"totalThreadLength":},{"id":"e5bae2c6-a55c-11f0-bfeb-c8ff283eb9ac","number":"000000002","date":"2025-10-10","name":"Плед Любовь в квадрате","yarnId":","sampleId":"e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac","areaId":"e5bae2c5-a55c-11f0-bfeb-c8ff283eb9ac","areaValue":0,"hook":3,"columnType":"СтолбикСОднимНакидом","result":15,"totalThreadLength":},{"id":"e5bae2c7-a55c-11f0-bfeb-c8ff283eb9ac","number":"000000003","date":"2025-10-10","name":"Простой свитер","yarnId":","sampleId":"bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac","areaId":"","areaValue":14600,"hook":8,"columnType":"ПолустолбикСНакидом","result":5,"totalThreadLength":2627},{"id":"e5bae2c9-a55c-11f0-bfeb-c8ff283eb9ac","number":"000000004","date":"2025-10-10","name":"Простая шапка","yarnId":","sampleId":"3a89cb91-6b4c-11f0-bfe3-c8ff283eb9ac","areaId":"e5bae2c8-a55c-11f0-bfeb-c8ff283eb9ac","areaValue":0,"hook":8,"columnType":"ПолустолбикСНакидом","result":3,"totalThreadLength":}]
+﻿[
+{
+"id": "e5bae2c3-a55c-11f0-bfeb-c8ff283eb9ac",
+"number": "000000001",
+"date": "2025-10-10",
+"name": "Пряжа Вафельный плед",
+"yarnId": "",
+"sampleId": "5a4a6884-7571-11f0-bfe5-c8ff283eb9ac",
+"areaId": "e5bae2c2-a55c-11f0-bfeb-c8ff283eb9ac",
+"areaValue": 0,
+"hook": 4,
+"columnType": "СтолбикСОднимНакидом",
+"result": 4,
+"totalThreadLength": 0
+},
+{
+"id": "e5bae2c6-a55c-11f0-bfeb-c8ff283eb9ac",
+"number": "000000002",
+"date": "2025-10-10",
+"name": "Плед Любовь в квадрате",
+"yarnId": "",
+"sampleId": "e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac",
+"areaId": "e5bae2c5-a55c-11f0-bfeb-c8ff283eb9ac",
+"areaValue": 0,
+"hook": 3,
+"columnType": "СтолбикСОднимНакидом",
+"result": 15,
+"totalThreadLength": 0
+},
+{
+"id": "e5bae2c7-a55c-11f0-bfeb-c8ff283eb9ac",
+"number": "000000003",
+"date": "2025-10-10",
+"name": "Простой свитер",
+"yarnId": "",
+"sampleId": "bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac",
+"areaId": "",
+"areaValue": 14600,
+"hook": 8,
+"columnType": "ПолустолбикСНакидом",
+"result": 5,
+"totalThreadLength": 2627
+},
+{
+"id": "e5bae2c9-a55c-11f0-bfeb-c8ff283eb9ac",
+"number": "000000004",
+"date": "2025-10-10",
+"name": "Простая шапка",
+"yarnId": "",
+"sampleId": "3a89cb91-6b4c-11f0-bfe3-c8ff283eb9ac",
+"areaId": "e5bae2c8-a55c-11f0-bfeb-c8ff283eb9ac",
+"areaValue": 0,
+"hook": 8,
+"columnType": "ПолустолбикСНакидом",
+"result": 3,
+"totalThreadLength": 0
+}
+]
