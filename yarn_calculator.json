@@ -10,8 +10,8 @@
 "areaValue": 0,
 "hook": 4,
 "columnType": "СтолбикСОднимНакидом",
-"result": 4,
-"totalThreadLength": 0
+"result": 43,
+"totalThreadLength": 3840
 },
 {
 "id": "e5bae2c6-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -22,10 +22,10 @@
 "sampleId": "e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac",
 "areaId": "e5bae2c5-a55c-11f0-bfeb-c8ff283eb9ac",
 "areaValue": 0,
-"hook": 3,
+"hook": 4,
 "columnType": "СтолбикСОднимНакидом",
-"result": 15,
-"totalThreadLength": 0
+"result": 27,
+"totalThreadLength": 3644
 },
 {
 "id": "e5bae2c7-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -54,5 +54,19 @@
 "columnType": "ПолустолбикСНакидом",
 "result": 3,
 "totalThreadLength": 0
+},
+{
+"id": "52f1bce4-9975-11f1-80d3-c8ff283eb9ac",
+"number": "000000005",
+"date": "2026-08-16",
+"name": "Круглый ковер",
+"yarnId": "",
+"sampleId": "f2d2fa2a-1021-11f1-802d-c8ff283eb9ac",
+"areaId": "52f1bce3-9975-11f1-80d3-c8ff283eb9ac",
+"areaValue": 0,
+"hook": 3,
+"columnType": "СтолбикСОднимНакидом",
+"result": 2,
+"totalThreadLength": 518
 }
 ]
