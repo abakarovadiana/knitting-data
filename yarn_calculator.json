@@ -11,7 +11,8 @@
 "hook": 4,
 "columnType": "СтолбикСОднимНакидом",
 "result": 43,
-"totalThreadLength": 3840
+"totalThreadLength": 3840,
+"NumberOfProducts": 1
 },
 {
 "id": "e5bae2c6-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -25,7 +26,8 @@
 "hook": 4,
 "columnType": "СтолбикСОднимНакидом",
 "result": 27,
-"totalThreadLength": 3644
+"totalThreadLength": 3644,
+"NumberOfProducts": 1
 },
 {
 "id": "e5bae2c7-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -39,7 +41,8 @@
 "hook": 8,
 "columnType": "ПолустолбикСНакидом",
 "result": 5,
-"totalThreadLength": 2627
+"totalThreadLength": 2627,
+"NumberOfProducts": 1
 },
 {
 "id": "e5bae2c9-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -53,7 +56,8 @@
 "hook": 8,
 "columnType": "ПолустолбикСНакидом",
 "result": 3,
-"totalThreadLength": 0
+"totalThreadLength": 527,
+"NumberOfProducts": 1
 },
 {
 "id": "52f1bce4-9975-11f1-80d3-c8ff283eb9ac",
@@ -67,6 +71,7 @@
 "hook": 3,
 "columnType": "СтолбикСОднимНакидом",
 "result": 2,
-"totalThreadLength": 518
+"totalThreadLength": 518,
+"NumberOfProducts": 1
 }
 ]
