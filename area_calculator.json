@@ -116,22 +116,22 @@
 "result": 1256
 },
 {
-"id": "9d891428-a8b5-11f1-80df-c8ff283eb9ac",
-"number": "000000005",
+"id": "a761fd9a-a8c2-11f1-80df-c8ff283eb9ac",
+"number": "000000006",
 "date": "2026-09-05",
-"name": "ЭКСПЕРИМЕНТ",
-"productType": "Юбка",
-"chestCirc": 0,
-"productLength": 88,
-"sleeveLength": 0,
-"sleeveWidth": 0,
+"name": "Простой свитер",
+"productType": "Свитер",
+"chestCirc": 110,
+"productLength": 58,
+"sleeveLength": 48,
+"sleeveWidth": 38,
 "footCirc": 0,
-"waistCirc": 66,
+"waistCirc": 0,
 "height": 0,
 "wristCirc": 0,
 "length": 0,
 "width": 0,
-"bottomWidth": 199,
+"bottomWidth": 0,
 "palmWidth": 0,
 "cuffWidth": 0,
 "footLength": 0,
@@ -142,6 +142,6 @@
 "palmLength": 0,
 "headCirc": 0,
 "strapLength": 0,
-"result": 20416
+"result": 10028
 }
 ]

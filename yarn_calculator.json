@@ -36,12 +36,12 @@
 "name": "Простой свитер",
 "yarnId": "",
 "sampleId": "bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac",
-"areaId": "",
-"areaValue": 14600,
+"areaId": "a761fd9a-a8c2-11f1-80df-c8ff283eb9ac",
+"areaValue": 0,
 "hook": 8,
 "columnType": "ПолустолбикСНакидом",
-"result": 5,
-"totalThreadLength": 2627,
+"result": 4,
+"totalThreadLength": 1804,
 "NumberOfProducts": 1
 },
 {
@@ -72,21 +72,6 @@
 "columnType": "СтолбикСОднимНакидом",
 "result": 2,
 "totalThreadLength": 518,
-"NumberOfProducts": 1
-},
-{
-"id": "9d891429-a8b5-11f1-80df-c8ff283eb9ac",
-"number": "000000006",
-"date": "2026-09-05",
-"name": "ЭКСПЕРИМЕНТ",
-"yarnId": "",
-"sampleId": "e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac",
-"areaId": "9d891428-a8b5-11f1-80df-c8ff283eb9ac",
-"areaValue": 0,
-"hook": 3,
-"columnType": "СтолбикСОднимНакидом",
-"result": 40,
-"totalThreadLength": 5489,
 "NumberOfProducts": 1
 }
 ]

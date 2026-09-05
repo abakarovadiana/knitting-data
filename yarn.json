@@ -397,22 +397,5 @@
 "quantity": 5
 }
 ]
-},
-{
-"id": "0c43c883-916c-11f1-80d0-c8ff283eb9ac",
-"code": "000000014",
-"name": "ЭТО НОВАЯ ПРЯЖА",
-"manufacturer": "",
-"weight": 500,
-"length": 100,
-"hookMin": 15,
-"hookMax": 25,
-"materials": [
-{
-"material": "Акрил",
-"percent": 100
-}
-],
-"additionals": []
 }
 ]
