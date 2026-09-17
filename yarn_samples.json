@@ -7,7 +7,8 @@
 "hookSize": 3,
 "sampleLength": 10,
 "sampleWidth": 10,
-"threadLength": 20.64
+"threadLength": 20.64,
+"typeOfPosts": "СтолбикБезНакида"
 },
 {
 "id": "3a89cb91-6b4c-11f0-bfe3-c8ff283eb9ac",
@@ -17,7 +18,8 @@
 "hookSize": 8,
 "sampleLength": 10,
 "sampleWidth": 10,
-"threadLength": 8.6
+"threadLength": 8.6,
+"typeOfPosts": "СтолбикБезНакида"
 },
 {
 "id": "5a4a6884-7571-11f0-bfe5-c8ff283eb9ac",
@@ -27,7 +29,8 @@
 "hookSize": 4,
 "sampleLength": 10,
 "sampleWidth": 10,
-"threadLength": 30
+"threadLength": 30,
+"typeOfPosts": "СтолбикБезНакида"
 },
 {
 "id": "bc0441b8-9eff-11f0-bfeb-c8ff283eb9ac",
@@ -37,7 +40,8 @@
 "hookSize": 2,
 "sampleLength": 10,
 "sampleWidth": 10,
-"threadLength": 50
+"threadLength": 50,
+"typeOfPosts": "СтолбикБезНакида"
 },
 {
 "id": "e5bae2c4-a55c-11f0-bfeb-c8ff283eb9ac",
@@ -47,6 +51,7 @@
 "hookSize": 2,
 "sampleLength": 10,
 "sampleWidth": 10,
-"threadLength": 20
+"threadLength": 20,
+"typeOfPosts": "СтолбикБезНакида"
 }
 ]
