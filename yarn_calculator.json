@@ -40,8 +40,8 @@
 "areaValue": 0,
 "hook": 2,
 "columnType": "СтолбикБезНакида",
-"result": 4,
-"totalThreadLength": 1804,
+"result": 10,
+"totalThreadLength": 5014,
 "NumberOfProducts": 1
 },
 {
@@ -55,8 +55,8 @@
 "areaValue": 0,
 "hook": 8,
 "columnType": "СтолбикБезНакида",
-"result": 3,
-"totalThreadLength": 527,
+"result": 2,
+"totalThreadLength": 369,
 "NumberOfProducts": 1
 },
 {
